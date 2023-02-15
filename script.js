@@ -1,16 +1,3 @@
-// console.log("hello world");
-
-const myName = "amir mahdi";
-const h1 = document.querySelector(".heading-primary");
-
-// console.log(h1);
-
-h1.addEventListener("click", function () {
-  h1.textContent = myName;
-  h1.style.backgroundColor = "lightblue";
-  h1.style.padding = "4rem";
-});
-
 ///////////////////////////////////////////////////////////
 // set current year
 // const yearEl = document.querySelector(".year");
